@@ -1,0 +1,13 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(19, 0, 187);
+}
+
+img{
+    width: 20%;
+    border-radius: 100%;
+}
+
+p{
+    white-space: pre-line;
+}
